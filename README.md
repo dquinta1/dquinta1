@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome to Daniel's Repo!! :bowtie:
+## I am currently a Master's Student and aspiring Flutter Developer! ⚡
+- 📚 BA in CS @ Swarthmore College
+- 🎓 Pursuing MSC @ Rice University 
+- 🔭 My current goal is to be proficient in Flutter
+## Languages
+<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="30" height="30"/> <img src="https://img.icons8.com/color/452/dart.png" alt="dart" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin" width="26" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/c/c-original.svg" alt="c" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="32" height="32"/> <img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="html" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="html" width="30" height="30"/> 
+
 
 <!--
 **dquinta1/dquinta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
