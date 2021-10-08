@@ -1,6 +1,6 @@
 # Welcome to Daniel's Repo!! :bowtie:
 ## Aspiring Full Stack Developer! ⚡
-- 🎓 Pursuing MSC @ Rice University 
+- 🎓 MCS Candidate @ Rice University 
 - 📚 BA in CS @ Swarthmore College
 - 🔭 My current goal is to land a summer internship in software development, preferably web and/or mobile
 ## Languages
