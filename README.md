@@ -1,4 +1,4 @@
-# Welcome to Daniel's Repo!! :bowtie:
+# Welcome to Daniel's Repo!! :cuba:
 ## Full Stack Engineer ⚡
 - 🎓 MCS Candidate @ Rice University 
 - 📚 BA in CS @ Swarthmore College
