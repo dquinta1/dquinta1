@@ -1,6 +1,6 @@
 # Welcome to Daniel's Repo!! :star2:
 ## Full Stack Engineer ⚡
-- 🎓 MCS Candidate @ Rice University 
+- 🎓 MCS in Software Engineering @ Rice University 
 - 📚 BA in CS @ Swarthmore College
 - 🌱 Currently learning how to set up and maintain CI/CD Pipelines
 ## Languages
